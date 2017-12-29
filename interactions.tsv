@@ -1,4 +1,4 @@
-sourceTaxonName	sourceTaxonNameCommon	interactionTypeId	interactionTypeName	targetTaxonName	reference	referenceUrl
+sourceTaxonName	sourceTaxonNameCommon	interactionTypeId	interactionTypeName	targetTaxonName	referenceCitation	referenceUrl
 Agrilus auroguttatus	Goldspotted oak borer	http://purl.obolibrary.org/obo/RO_0002556	pathogenOf	Exotic Wood Borer/Bark Beetle	Priority Pest List 2016 as approved by the National Cooperative Agricultural Pest Survey (CAPS) of the United States.	http://caps.ceris.purdue.edu/pest-lists
 Agrilus biguttatus	Oak splendor beetle	http://purl.obolibrary.org/obo/RO_0002556	pathogenOf	Exotic Wood Borer/Bark Beetle	Priority Pest List 2016 as approved by the National Cooperative Agricultural Pest Survey (CAPS) of the United States	http://caps.ceris.purdue.edu/pest-lists
 Agrilus planipennis	Emerald ash borer	http://purl.obolibrary.org/obo/RO_0002556	pathogenOf	Exotic Wood Borer/Bark Beetle	Priority Pest List 2016 as approved by the National Cooperative Agricultural Pest Survey (CAPS) of the United States	http://caps.ceris.purdue.edu/pest-lists
